@@ -42,3 +42,7 @@
 1. **시각 피로를 실시간으로 측정하는 검증된 대안 제시**
 2. **모션에 따른 시각 피로의 증가 양상의 차이를 증명**
 3. **V-value, Optical flow를 Feature로 시각 피로 80% 이상 예측**
+
+
+Image Reference : https://opencv.org
+
