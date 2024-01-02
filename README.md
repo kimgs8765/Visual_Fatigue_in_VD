@@ -11,7 +11,7 @@
 
 # Main Ideas
 
-![ML.png](Investigation%20of%20Visual%20Fatigue%20in%20Real-Time,%20Base%2058cd370d55284517866ce3cd9cab2689/ML.png)
+![ML.png](Investigation%20of%20Visual%20Fatigue%20in%20Real-Time/ML.png)
 
 1. **Joystick을 활용하여 영상 시청 중 발생되는 시각피로의 실시간 평가 방법 제안 및 데이터 추출 (Dynamic rating)**
 2. **Optical Flow & V-value in HSV를 활용한 영상 모션, 밝기 정보 추출 및 실시간 시각 피로와의 관계 분석**
